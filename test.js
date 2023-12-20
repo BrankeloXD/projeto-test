@@ -1,0 +1,1 @@
+console.log('Comi sua mãe')
